@@ -1,0 +1,6 @@
+Function #2: check_malloc_3 SEGFAULTED/TIMED_OUT
+
+Score: 90/100 points
+Any difference between points lost and points gained is due to functions segfaulting/timeing out before points can be deducted,
+in which case those points are still lost by not adding them.
+~Nathan
